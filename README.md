@@ -15,3 +15,6 @@ To install this add-on
 - choose yes and the add-on will install
 - restart Freeplane after the installation for the add-on to take effect
 To run the addon go to View/MapInsight and choose 'MapInsight'
+
+
+
